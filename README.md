@@ -4,11 +4,9 @@
 
 ## Hola, soy Alejo 👋
 
-Me gusta hacer proyectos web que tengan una utilidad concreta y, cuando puedo, llevarlos más allá de una página estática.
+Trabajo con desarrollo web y me gusta armar proyectos donde pueda conectar la interfaz con la lógica, los datos y, en algunos casos, hardware.
 
-Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**. También vengo probando cosas con **PWA**, almacenamiento local, visualización de datos e integración entre software y hardware.
-
-Este GitHub es donde voy dejando los proyectos que más me interesa mostrar, junto con el código y la documentación necesaria para entender cómo están hechos.
+Acá voy subiendo los proyectos que fui desarrollando y que quiero conservar bien documentados. Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**, y también vengo usando **PWA, LocalStorage, Node.js** e integración con dispositivos.
 
 ## Tecnologías
 
@@ -21,7 +19,6 @@ Este GitHub es donde voy dejando los proyectos que más me interesa mostrar, jun
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=fff" alt="PWA">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
 </p>
 
 ## Proyectos
@@ -34,42 +31,34 @@ Este GitHub es donde voy dejando los proyectos que más me interesa mostrar, jun
 
 Una estación meteorológica conectada a una aplicación web.
 
-El dispositivo envía **temperatura, humedad, luminosidad y presión**. Esos datos se guardan en MySQL y después se pueden consultar desde un dashboard con gráficos, estadísticas, historial y reportes en PDF.
+La estación envía **temperatura, humedad, luminosidad y presión**. Los datos se guardan en MySQL y desde el dashboard se pueden consultar registros, estadísticas, gráficos y reportes en PDF.
 
-Fue un proyecto donde tuve que conectar varias partes entre sí: recepción de datos, backend, base de datos, usuarios y visualización.
+**PHP · MySQL · JavaScript · Chart.js · FPDF**
 
-**PHP · MySQL · JavaScript · HTML · CSS · Chart.js · FPDF**
-
-[Ver proyecto →](https://github.com/alejoesp/ClimateCatcher)
+[Ver ClimateCatcher →](https://github.com/alejoesp/ClimateCatcher)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Clases App
 
-Una aplicación para organizar **alumnos, horarios, clases y pagos** sin depender de una base de datos externa.
+Una aplicación para organizar **alumnos, horarios, clases y pagos**.
 
-Tiene agenda semanal, asistencia, reprogramaciones, paquetes de horas, calendario, movimientos y control de saldos. También se puede instalar como PWA y seguir cargando información desde el mismo navegador.
+Tiene agenda semanal, asistencia, reprogramaciones, combos de horas, calendario y control de saldos. Guarda los datos en el navegador y se puede instalar como PWA.
 
 **JavaScript · HTML · CSS · PWA · LocalStorage · Node.js**
 
-[Ver proyecto →](https://github.com/alejoesp/clases-app)
+[Ver Clases App →](https://github.com/alejoesp/clases-app)
 
 </td>
 </tr>
 </table>
 
-## Lo que me interesa seguir trabajando
-
-Me interesa seguir sumando proyectos donde pueda combinar interfaz, lógica, datos y una parte práctica detrás. Algunas de las áreas que más me interesan son:
+## También me interesa
 
 - desarrollo web;
-- aplicaciones PWA;
 - bases de datos;
+- aplicaciones que funcionen offline;
 - automatización;
-- visualización de información;
+- visualización de datos;
 - integración con hardware e IoT.
-
-<p align="center">
-  <sub>Voy actualizando este perfil a medida que termino y ordeno nuevos proyectos.</sub>
-</p>
