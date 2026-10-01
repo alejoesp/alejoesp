@@ -1,0 +1,40 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#070B12"/>
+    <stop offset="0.48" stop-color="#0B1728"/>
+    <stop offset="1" stop-color="#0C3A46"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="120" y1="90" x2="1050" y2="340" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#5FD7FF"/>
+    <stop offset=".5" stop-color="#73F6D1"/>
+    <stop offset="1" stop-color="#8EBBFF"/>
+  </linearGradient>
+  <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="45"/>
+  </filter>
+</defs>
+<rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+<circle cx="1010" cy="96" r="170" fill="#43D9FF" opacity=".10" filter="url(#blur)"/>
+<circle cx="1035" cy="338" r="190" fill="#54FFD5" opacity=".08" filter="url(#blur)"/>
+<g opacity=".11" stroke="#89E8FF">
+  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/>
+  <path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/>
+</g>
+<rect x="78" y="68" width="194" height="36" rx="18" fill="#102438" stroke="#2E6C88"/>
+<text x="175" y="92" text-anchor="middle" fill="#8EEBFF" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">DEVELOPER PORTFOLIO</text>
+<text x="78" y="182" fill="white" font-size="64" font-family="Arial, Helvetica, sans-serif" font-weight="800">Alejo Espinosa</text>
+<text x="78" y="230" fill="#BCD3DF" font-size="25" font-family="Arial, Helvetica, sans-serif">Web Development • PWA • Backend • IoT</text>
+<text x="78" y="294" fill="#74ECD5" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.4">BUILD • CONNECT • DOCUMENT • IMPROVE</text>
+
+<g transform="translate(875 78)">
+  <rect width="240" height="264" rx="28" fill="#0A1521" stroke="url(#accent)" stroke-width="2.5"/>
+  <circle cx="54" cy="56" r="9" fill="#5FD7FF"/>
+  <circle cx="84" cy="56" r="9" fill="#73F6D1"/>
+  <circle cx="114" cy="56" r="9" fill="#8EBBFF"/>
+  <path d="M42 111L71 140L42 169" stroke="#76F2D7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 174H157" stroke="#81DFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M171 113C191 124 202 142 202 163C202 196 175 223 142 223C116 223 94 207 85 184" stroke="#5FD7FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 98L175 111L169 136" stroke="#73F6D1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
