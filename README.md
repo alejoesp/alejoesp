@@ -1,20 +1,16 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Alejo Espinosa — Developer Portfolio" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Perfil%20en%20construcción-60%25-0B7285?style=for-the-badge" alt="Perfil 60%">
+  <img src="assets/profile-banner.svg" alt="Alejo Espinosa" width="100%">
 </p>
 
 ## Hola, soy Alejo 👋
 
-Me gusta desarrollar proyectos web que sirvan para algo concreto. En este perfil voy subiendo trabajos personales, ideas que fui llevando a código y proyectos que también uso para seguir aprendiendo.
+Me gusta hacer proyectos web que tengan una utilidad concreta y, cuando puedo, llevarlos más allá de una página estática.
 
-Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**. También estuve desarrollando aplicaciones tipo **PWA** y proyectos donde se conecta software con hardware, como ClimateCatcher.
+Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**. También vengo probando cosas con **PWA**, almacenamiento local, visualización de datos e integración entre software y hardware.
 
-Todavía estoy ordenando y mejorando este GitHub, así que lo considero aproximadamente en un **60%**. La idea es ir sumando proyectos, mejorar los que ya tengo y dejar cada repositorio bien presentado.
+Este GitHub es donde voy dejando los proyectos que más me interesa mostrar, junto con el código y la documentación necesaria para entender cómo están hechos.
 
-## Tecnologías que uso
+## Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
@@ -36,53 +32,44 @@ Todavía estoy ordenando y mejorando este GitHub, así que lo considero aproxima
 
 ### 🌦️ ClimateCatcher
 
-Proyecto de una **estación meteorológica conectada a una página web**.
+Una estación meteorológica conectada a una aplicación web.
 
-La estación envía datos de temperatura, humedad, luminosidad y presión. Desde la web se pueden consultar esos registros, ver estadísticas, gráficos y generar reportes.
+El dispositivo envía **temperatura, humedad, luminosidad y presión**. Esos datos se guardan en MySQL y después se pueden consultar desde un dashboard con gráficos, estadísticas, historial y reportes en PDF.
 
-Fue uno de los proyectos donde más trabajé la conexión entre distintas partes de un sistema: dispositivo, backend, base de datos e interfaz.
+Fue un proyecto donde tuve que conectar varias partes entre sí: recepción de datos, backend, base de datos, usuarios y visualización.
 
-**Tecnologías:** PHP · MySQL · JavaScript · HTML · CSS · Chart.js · FPDF
+**PHP · MySQL · JavaScript · HTML · CSS · Chart.js · FPDF**
 
-[Ver ClimateCatcher →](https://github.com/alejoesp/ClimateCatcher)
+[Ver proyecto →](https://github.com/alejoesp/ClimateCatcher)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Clases App
 
-Aplicación que hice para llevar el control de **alumnos, horarios, clases y pagos** desde un solo lugar.
+Una aplicación para organizar **alumnos, horarios, clases y pagos** sin depender de una base de datos externa.
 
-Permite registrar asistencias, reprogramaciones, combos de horas, movimientos y ver todo en una agenda o calendario. Funciona como PWA y guarda los datos en el navegador.
+Tiene agenda semanal, asistencia, reprogramaciones, paquetes de horas, calendario, movimientos y control de saldos. También se puede instalar como PWA y seguir cargando información desde el mismo navegador.
 
-**Tecnologías:** JavaScript · HTML · CSS · PWA · LocalStorage · Node.js
+**JavaScript · HTML · CSS · PWA · LocalStorage · Node.js**
 
-[Ver Clases App →](https://github.com/alejoesp/clases-app)
+[Ver proyecto →](https://github.com/alejoesp/clases-app)
 
 </td>
 </tr>
 </table>
 
-## En qué estoy trabajando
+## Lo que me interesa seguir trabajando
 
-Ahora mismo estoy enfocado en seguir mejorando estos proyectos y en sumar otros que muestren mejor lo que puedo hacer.
-
-Quiero que este perfil termine teniendo una mezcla de:
+Me interesa seguir sumando proyectos donde pueda combinar interfaz, lógica, datos y una parte práctica detrás. Algunas de las áreas que más me interesan son:
 
 - desarrollo web;
-- aplicaciones útiles;
-- proyectos con bases de datos;
-- PWA;
+- aplicaciones PWA;
+- bases de datos;
 - automatización;
-- integración con hardware e IoT;
-- proyectos más completos de principio a fin.
-
-## Este perfil sigue creciendo
-
-Por ahora hay pocos proyectos publicados, pero prefiero ir subiendo trabajos bien presentados y explicados antes que llenar el perfil de repositorios sin ordenar.
-
-**Estado actual del perfil: 60%.**
+- visualización de información;
+- integración con hardware e IoT.
 
 <p align="center">
-  <sub>Voy mejorándolo proyecto por proyecto.</sub>
+  <sub>Voy actualizando este perfil a medida que termino y ordeno nuevos proyectos.</sub>
 </p>
