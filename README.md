@@ -3,23 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alejoesp/ClimateCatcher">
-    <img src="https://img.shields.io/badge/ClimateCatcher-IoT%20%2B%20Full%20Stack-0B7285?style=for-the-badge&logo=github&logoColor=white" alt="ClimateCatcher">
-  </a>
-  <a href="https://github.com/alejoesp/clases-app">
-    <img src="https://img.shields.io/badge/Clases%20App-PWA%20%2B%20JavaScript-166534?style=for-the-badge&logo=github&logoColor=white" alt="Clases App">
-  </a>
+  <img src="https://img.shields.io/badge/Perfil%20en%20construcción-60%25-0B7285?style=for-the-badge" alt="Perfil 60%">
 </p>
 
-## Sobre mí
+## Hola, soy Alejo 👋
 
-Soy **Alejo Espinosa**, desarrollador enfocado en construir soluciones web funcionales y proyectos donde el software conecta con necesidades concretas.
+Me gusta desarrollar proyectos web que sirvan para algo concreto. En este perfil voy subiendo trabajos personales, ideas que fui llevando a código y proyectos que también uso para seguir aprendiendo.
 
-Mi portfolio combina desarrollo **frontend**, **backend**, aplicaciones **PWA**, manejo de datos y proyectos **IoT**. Me interesa entender el recorrido completo de una aplicación: interfaz, lógica, almacenamiento, comunicación entre componentes y experiencia de usuario.
+Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**. También estuve desarrollando aplicaciones tipo **PWA** y proyectos donde se conecta software con hardware, como ClimateCatcher.
 
-Actualmente este GitHub funciona como mi **portfolio técnico**, donde documento no solo el resultado final de cada proyecto, sino también su arquitectura, tecnologías y decisiones de implementación.
+Todavía estoy ordenando y mejorando este GitHub, así que lo considero aproximadamente en un **60%**. La idea es ir sumando proyectos, mejorar los que ya tengo y dejar cada repositorio bien presentado.
 
-## Stack tecnológico
+## Tecnologías que uso
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
@@ -33,7 +28,7 @@ Actualmente este GitHub funciona como mi **portfolio técnico**, donde documento
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
 </p>
 
-## Proyectos destacados
+## Proyectos
 
 <table>
 <tr>
@@ -41,100 +36,53 @@ Actualmente este GitHub funciona como mi **portfolio técnico**, donde documento
 
 ### 🌦️ ClimateCatcher
 
-**Sistema IoT de monitoreo meteorológico**
+Proyecto de una **estación meteorológica conectada a una página web**.
 
-Proyecto full-stack que conecta una estación meteorológica física con una plataforma web para registrar, almacenar y visualizar información ambiental.
+La estación envía datos de temperatura, humedad, luminosidad y presión. Desde la web se pueden consultar esos registros, ver estadísticas, gráficos y generar reportes.
 
-**Incluye**
-- Temperatura, humedad, luminosidad y presión.
-- Endpoint de recepción de telemetría.
-- Backend en PHP.
-- Persistencia en MySQL.
-- Autenticación y sesiones.
-- Dashboard de datos.
-- Gráficos con Chart.js.
-- Estadísticas e historial.
-- Panel de administración.
-- Reportes PDF.
+Fue uno de los proyectos donde más trabajé la conexión entre distintas partes de un sistema: dispositivo, backend, base de datos e interfaz.
 
-**Stack:** PHP · MySQL · JavaScript · HTML · CSS · Chart.js · FPDF
+**Tecnologías:** PHP · MySQL · JavaScript · HTML · CSS · Chart.js · FPDF
 
-[Ver proyecto →](https://github.com/alejoesp/ClimateCatcher)
+[Ver ClimateCatcher →](https://github.com/alejoesp/ClimateCatcher)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Clases App
 
-**PWA para gestión de clases particulares**
+Aplicación que hice para llevar el control de **alumnos, horarios, clases y pagos** desde un solo lugar.
 
-Aplicación web progresiva para administrar alumnos, horarios, asistencias, pagos y paquetes de horas desde una interfaz simple y offline-first.
+Permite registrar asistencias, reprogramaciones, combos de horas, movimientos y ver todo en una agenda o calendario. Funciona como PWA y guarda los datos en el navegador.
 
-**Incluye**
-- Gestión de alumnos.
-- Agenda semanal.
-- Asistencia y reprogramaciones.
-- Calendario mensual.
-- Pagos y combos.
-- Cálculo de saldo de horas.
-- Exportación de datos.
-- LocalStorage.
-- Service Worker.
-- Instalación como PWA.
+**Tecnologías:** JavaScript · HTML · CSS · PWA · LocalStorage · Node.js
 
-**Stack:** JavaScript · HTML · CSS · PWA · LocalStorage · Node.js
-
-[Ver proyecto →](https://github.com/alejoesp/clases-app)
+[Ver Clases App →](https://github.com/alejoesp/clases-app)
 
 </td>
 </tr>
 </table>
 
-## Áreas que trabajo
+## En qué estoy trabajando
 
-```text
-Web Development
-├── Frontend
-│   ├── Interfaces responsive
-│   ├── JavaScript
-│   ├── DOM y estado
-│   └── Progressive Web Apps
-│
-├── Backend
-│   ├── PHP
-│   ├── APIs / endpoints
-│   ├── Sesiones y autenticación
-│   └── MySQL
-│
-├── Data
-│   ├── Persistencia
-│   ├── Consultas SQL
-│   ├── Visualización
-│   └── Reportes
-│
-└── IoT
-    ├── Telemetría
-    ├── Integración dispositivo-servidor
-    └── Monitoreo de sensores
-```
+Ahora mismo estoy enfocado en seguir mejorando estos proyectos y en sumar otros que muestren mejor lo que puedo hacer.
 
-## Cómo desarrollo
+Quiero que este perfil termine teniendo una mezcla de:
 
-Me interesa que un proyecto sea más que código que “funciona”. Por eso intento trabajar también sobre:
+- desarrollo web;
+- aplicaciones útiles;
+- proyectos con bases de datos;
+- PWA;
+- automatización;
+- integración con hardware e IoT;
+- proyectos más completos de principio a fin.
 
-- **estructura clara** del repositorio;
-- documentación técnica;
-- separación de responsabilidades;
-- seguridad de configuraciones y credenciales;
-- interfaces entendibles;
-- persistencia de datos;
-- arquitectura y flujo de información;
-- evolución progresiva del proyecto.
+## Este perfil sigue creciendo
 
-## Portfolio en construcción
+Por ahora hay pocos proyectos publicados, pero prefiero ir subiendo trabajos bien presentados y explicados antes que llenar el perfil de repositorios sin ordenar.
 
-Este perfil se encuentra en evolución. A medida que desarrollo nuevos proyectos, voy incorporando documentación, mejoras técnicas y nuevas tecnologías.
+**Estado actual del perfil: 60%.**
 
 <p align="center">
-  <sub>Construyendo proyectos, documentando el proceso y mejorando cada versión.</sub>
+  <sub>Voy mejorándolo proyecto por proyecto.</sub>
 </p>
