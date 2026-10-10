@@ -1,0 +1,30 @@
+<svg width="560" height="250" viewBox="0 0 560 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="250" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0C1A24"/>
+    <stop offset="1" stop-color="#174D58"/>
+  </linearGradient>
+  <linearGradient id="a" x1="396" y1="42" x2="510" y2="205" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#79E7FF"/>
+    <stop offset="1" stop-color="#76E8C7"/>
+  </linearGradient>
+</defs>
+<rect width="560" height="250" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="558" height="248" rx="21" stroke="#376A75" stroke-opacity=".8"/>
+<text x="34" y="55" fill="#7BE7D1" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="700">SITIO INSTITUCIONAL</text>
+<text x="34" y="94" fill="white" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="800">Plomeros y Sanitaristas</text>
+<text x="34" y="126" fill="#C8DEE5" font-size="16" font-family="Arial, Helvetica, sans-serif">Asociación Civil de Corrientes</text>
+<text x="34" y="166" fill="#93BAC4" font-size="14" font-family="Arial, Helvetica, sans-serif">GitHub Pages · dominio propio · formulario web</text>
+<rect x="34" y="191" width="58" height="28" rx="14" fill="#173441"/>
+<text x="63" y="210" text-anchor="middle" fill="#E7FBFF" font-size="12" font-family="Arial" font-weight="700">HTML</text>
+<rect x="100" y="191" width="50" height="28" rx="14" fill="#173441"/>
+<text x="125" y="210" text-anchor="middle" fill="#E7FBFF" font-size="12" font-family="Arial" font-weight="700">CSS</text>
+<rect x="158" y="191" width="86" height="28" rx="14" fill="#173441"/>
+<text x="201" y="210" text-anchor="middle" fill="#E7FBFF" font-size="12" font-family="Arial" font-weight="700">JavaScript</text>
+<g transform="translate(402 43)">
+  <circle cx="60" cy="68" r="56" stroke="url(#a)" stroke-width="2.5"/>
+  <path d="M39 82V59L60 43L81 59V82" stroke="url(#a)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 82V67H68V82" stroke="url(#a)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 96H87" stroke="url(#a)" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>
