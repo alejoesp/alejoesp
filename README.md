@@ -4,11 +4,11 @@
 
 ## Hola, soy Alejo 👋
 
-Trabajo con desarrollo web y me gusta armar proyectos donde pueda conectar la interfaz con la lógica, los datos y, en algunos casos, hardware.
+Trabajo con desarrollo web y me gusta armar proyectos donde pueda conectar la interfaz con la lógica, los datos y, cuando hace falta, hardware.
 
-Acá voy subiendo los proyectos que fui desarrollando y que quiero conservar bien documentados. Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**, y también vengo usando **PWA, LocalStorage, Node.js** e integración con dispositivos.
+En este perfil voy dejando los proyectos que realmente fui desarrollando y que quiero conservar bien ordenados. Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**, y también uso **Node.js, PWA, LocalStorage, Git** e integración con dispositivos.
 
-## Tecnologías
+## Tecnologías que uso
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
@@ -32,6 +32,12 @@ Acá voy subiendo los proyectos que fui desarrollando y que quiero conservar bie
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/alejoesp/asociacion-plomeros-sanitaristas-corrientes">
+    <img src="assets/asociacion-card.svg" alt="Sitio de la Asociación Civil de Plomeros y Sanitaristas de Corrientes" width="49%">
+  </a>
+</p>
+
 <details>
 <summary><strong>Ver un poco más sobre cada proyecto</strong></summary>
 
@@ -39,8 +45,8 @@ Acá voy subiendo los proyectos que fui desarrollando y que quiero conservar bie
 
 Una estación meteorológica conectada a una aplicación web. La estación envía **temperatura, humedad, luminosidad y presión**; la web guarda esos datos y permite ver registros, estadísticas, gráficos y reportes en PDF.
 
-- PHP + MySQL para backend y datos.
-- Chart.js para gráficos.
+- PHP y MySQL para backend y datos.
+- JavaScript y Chart.js para la parte visual.
 - Sesiones de usuario y panel de administración.
 - Recepción de mediciones desde la estación.
 
@@ -57,13 +63,15 @@ Una aplicación para organizar **alumnos, horarios, clases y pagos**. Tiene agen
 
 [Ir al repositorio](https://github.com/alejoesp/clases-app)
 
+### Asociación de Plomeros y Sanitaristas de Corrientes
+
+Sitio institucional que armé para la **Asociación Civil de Plomeros y Sanitaristas de Corrientes**.
+
+- HTML, CSS y JavaScript.
+- Publicado con GitHub Pages.
+- Dominio propio y HTTPS.
+- Formulario de contacto sin backend propio.
+
+[Ver sitio](https://asociaciondeplomerosysanitaristas-corrientes.site) · [Ir al repositorio](https://github.com/alejoesp/asociacion-plomeros-sanitaristas-corrientes)
+
 </details>
-
-## También me interesa
-
-- desarrollo web;
-- bases de datos;
-- aplicaciones que funcionen offline;
-- automatización;
-- visualización de datos;
-- integración con hardware e IoT.
