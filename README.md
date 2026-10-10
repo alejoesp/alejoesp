@@ -2,13 +2,15 @@
   <img src="assets/profile-banner.svg" alt="Alejo Espinosa" width="100%">
 </p>
 
-## Hola, soy Alejo 👋
+## Sobre mí
 
-Trabajo con desarrollo web y me gusta armar proyectos donde pueda conectar la interfaz con la lógica, los datos y, cuando hace falta, hardware.
+Soy estudiante de **Licenciatura en Sistemas** y también del **Profesorado de Informática**. En paralelo desarrollo sitios web y aplicaciones por mi cuenta, sobre todo proyectos donde puedo trabajar tanto la interfaz como la lógica, los datos y la publicación final.
 
-En este perfil voy dejando los proyectos que realmente fui desarrollando y que quiero conservar bien ordenados. Trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**, y también uso **Node.js, PWA, LocalStorage, Git** e integración con dispositivos.
+Me interesa aprender haciendo. Por eso en mis repositorios hay proyectos web, una PWA de gestión, integración con bases de datos y también un trabajo que conecta software con hardware e IoT.
 
-## Tecnologías que uso
+Actualmente trabajo principalmente con **JavaScript, HTML, CSS, PHP y MySQL**. También uso **Node.js, PWA, LocalStorage, Git, GitHub Pages** y herramientas de visualización como **Chart.js**.
+
+## Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
@@ -19,6 +21,8 @@ En este perfil voy dejando los proyectos que realmente fui desarrollando y que q
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=fff" alt="PWA">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=githubpages&logoColor=fff" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=fff" alt="Chart.js">
 </p>
 
 ## Proyectos
@@ -39,39 +43,34 @@ En este perfil voy dejando los proyectos que realmente fui desarrollando y que q
 </p>
 
 <details>
-<summary><strong>Ver un poco más sobre cada proyecto</strong></summary>
+<summary><strong>Ver detalles de los proyectos</strong></summary>
 
 ### ClimateCatcher
 
-Una estación meteorológica conectada a una aplicación web. La estación envía **temperatura, humedad, luminosidad y presión**; la web guarda esos datos y permite ver registros, estadísticas, gráficos y reportes en PDF.
+Estación meteorológica conectada a una aplicación web. Recibe **temperatura, humedad, luminosidad y presión**, guarda las mediciones y permite consultar valores actuales, estadísticas, gráficos e historial.
 
-- PHP y MySQL para backend y datos.
-- JavaScript y Chart.js para la parte visual.
-- Sesiones de usuario y panel de administración.
-- Recepción de mediciones desde la estación.
+**Tecnologías:** PHP, MySQL, JavaScript, Chart.js y FPDF.
 
 [Ir al repositorio](https://github.com/alejoesp/ClimateCatcher)
 
 ### Clases App
 
-Una aplicación para organizar **alumnos, horarios, clases y pagos**. Tiene agenda semanal, asistencia, reprogramaciones, combos de horas, calendario y control de saldos.
+Aplicación que hice para organizar **alumnos, horarios, clases y pagos**. Funciona como PWA, guarda los datos localmente y puede seguir cargando sus archivos principales sin conexión.
 
-- JavaScript sin frameworks.
-- Datos guardados con LocalStorage.
-- Service Worker y Web App Manifest.
-- Instalación como PWA.
+**Tecnologías:** JavaScript, HTML, CSS, LocalStorage, Service Worker y Node.js.
 
 [Ir al repositorio](https://github.com/alejoesp/clases-app)
 
 ### Asociación de Plomeros y Sanitaristas de Corrientes
 
-Sitio institucional que armé para la **Asociación Civil de Plomeros y Sanitaristas de Corrientes**.
+Sitio institucional de la **Asociación Civil de Plomeros y Sanitaristas de Corrientes**, publicado con dominio propio y HTTPS.
 
-- HTML, CSS y JavaScript.
-- Publicado con GitHub Pages.
-- Dominio propio y HTTPS.
-- Formulario de contacto sin backend propio.
+**Tecnologías:** HTML, CSS, JavaScript, GitHub Pages y FormSubmit.
 
 [Ver sitio](https://asociaciondeplomerosysanitaristas-corrientes.site) · [Ir al repositorio](https://github.com/alejoesp/asociacion-plomeros-sanitaristas-corrientes)
 
 </details>
+
+## En qué estoy enfocado
+
+Me interesa seguir creciendo en desarrollo web, backend, bases de datos, aplicaciones instalables y proyectos que conecten software con dispositivos. La formación docente también forma parte de mi recorrido, especialmente en el uso de tecnología e informática dentro de contextos educativos.
