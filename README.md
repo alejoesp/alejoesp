@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Licenciatura en Sistemas** y también del **Profesorado de Informática**. En paralelo desarrollo sitios web y aplicaciones por mi cuenta, sobre todo proyectos donde puedo trabajar tanto la interfaz como la lógica, los datos y la publicación final.
+Soy estudiante de **Licenciatura en Sistemas** y del **Profesorado de Informática**. Además, trabajo como **desarrollador web independiente y creador de aplicaciones**, especialmente en proyectos donde puedo ocuparme de la interfaz, la lógica, los datos y la publicación final.
 
 Me interesa aprender haciendo. Por eso en mis repositorios hay proyectos web, una PWA de gestión, integración con bases de datos y también un trabajo que conecta software con hardware e IoT.
 
